@@ -1,0 +1,7 @@
+bot:
+  token: 7608514676:AAGrvmdUBpU6wwq3214haqH8NiiY9KUHd84
+  username: kicks_k_bot
+  apiUrl: https://api.telegram.org
+spring:
+  application:
+    name: KICKS_K_BOT
