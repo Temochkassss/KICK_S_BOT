@@ -4,4 +4,4 @@ bot:
   apiUrl: https://api.telegram.org
 spring:
   application:
-    name: KICKS_K_BOT
+    name: KICKS_K_ASSISTANT
